@@ -2,11 +2,12 @@
 
  <div>
    <a href="https://github.com/matheuscrdoso">
+    
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuscrdoso&theme=tokyonight"/>
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuscrdoso&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheuscrdoso&theme=tokyonight" />
-</div>
+    
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuscrdoso&theme=tokyonight"/>
 
+</div>
   ## Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,15 +21,11 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
 </div>
- 
- <br>
- 
-  ### Aqui em baixo estão as minhas redes sociais!
 
- 
+ <br>
+  ### Aqui em baixo estão as minhas redes sociais!
 <div> 
   <a href="https://www.instagram.com/matheus_crdoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/matheus-cardoso-pdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
