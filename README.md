@@ -3,14 +3,8 @@
  <div>
    <a href="https://github.com/matheuscrdoso">
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuscrdoso&theme=tokyonight"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuscrdoso&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheuscrdoso&theme=tokyonight" />
-
-
-
-
-
-
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuscrdoso&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheuscrdoso&theme=tokyonight" />
 </div>
 
   ## Tecnologias
