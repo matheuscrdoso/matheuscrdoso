@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/matheuscrdoso">
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuscrdoso&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscrdoso&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheuscrdoso&layout=compact&langs_count=6&theme=tokyonight" />
 
 
 
